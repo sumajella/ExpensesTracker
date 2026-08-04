@@ -1,0 +1,260 @@
+{
+  "next_id": 8,
+  "expenses": [
+    {
+      "id": 1,
+      "amount": 2500.0,
+      "category": "Rent",
+      "note": "Monthly house rent",
+      "expense_date": "2026-03-01",
+      "username": "user_5d2bf480"
+    },
+    {
+      "id": 2,
+      "username": "sumajella",
+      "amount": 1700.0,
+      "category": "Groceries",
+      "note": "",
+      "expense_date": "2026-03-28"
+    },
+    {
+      "id": 3,
+      "username": "sumajella",
+      "amount": 25000.0,
+      "category": "Rent",
+      "note": "for home rent",
+      "expense_date": "2026-03-01"
+    },
+    {
+      "id": 4,
+      "username": "sumajella",
+      "amount": 550.0,
+      "category": "Medical",
+      "note": "tablets",
+      "expense_date": "2026-03-28"
+    },
+    {
+      "id": 5,
+      "username": "sumajella",
+      "amount": 500.0,
+      "category": "Education",
+      "note": "books,pens",
+      "expense_date": "2026-03-28"
+    },
+    {
+      "id": 6,
+      "username": "sumajella",
+      "amount": 2000.0,
+      "category": "Savings",
+      "note": "for emergency saving",
+      "expense_date": "2026-03-28"
+    },
+    {
+      "id": 7,
+      "username": "sumajella",
+      "amount": 1500.0,
+      "category": "Entertainment",
+      "note": "enjoying",
+      "expense_date": "2026-03-28"
+    }
+  ],
+  "budgets": {
+    "user_5d2bf480": {
+      "2026-03": 10000.0
+    },
+    "sumajella": {
+      "2026-03": 90000.0
+    }
+  },
+  "users": {
+    "user_5d2bf480": {
+      "salt": "fc3384ddafe94f2c",
+      "password_hash": "9362bc415bba8dd393d048b1dafd88bbfc5b9e7fc53f4c8ed50cd9fb23d1458f",
+      "created_at": "2026-03-28 14:31:18",
+      "full_name": "user_5d2bf480",
+      "mobile_number": "",
+      "email": "",
+      "date_of_birth": "",
+      "theme": "light",
+      "language": "en"
+    },
+    "person_b9633fe7": {
+      "full_name": "Test Person",
+      "mobile_number": "9876543210",
+      "email": "person_b9633fe7@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "5944331eb851d5d0",
+      "password_hash": "b60599728b8e1065af45885a1d0ff76a83f30108897139bc9ed61dfae2e96382",
+      "created_at": "2026-03-28 14:40:15",
+      "theme": "light",
+      "language": "en"
+    },
+    "sumajella": {
+      "full_name": "SUMAJELLA",
+      "mobile_number": "8247555826",
+      "email": "sumajella2005@gmail.com",
+      "date_of_birth": "2005-11-10",
+      "salt": "0c7d4366cd6eec6c",
+      "password_hash": "b91a54fc8b38e091b990ab7a3c1ca4ce22cc987a4313f1a7b1e7314cb90ba743",
+      "created_at": "2026-03-28 14:58:59",
+      "theme": "dark",
+      "language": "en"
+    },
+    "welcome_8d8bcc73": {
+      "full_name": "Sample Person",
+      "mobile_number": "9876543210",
+      "email": "welcome_8d8bcc73@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "18bc24d4018fb47b",
+      "password_hash": "d16f777752590d3bf56e597c0fe62ef6a04a75abed123f6f4ef891a4de462f70",
+      "created_at": "2026-03-28 15:02:03",
+      "theme": "light",
+      "language": "en"
+    },
+    "dash_475c323e": {
+      "full_name": "Dashboard Person",
+      "mobile_number": "9876543210",
+      "email": "dash_475c323e@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "39db7734803edcdd",
+      "password_hash": "b0ac228e54f788110401cfd70f2144f1a9f5e266d2d5b8542788975750767923",
+      "created_at": "2026-03-28 15:08:50",
+      "theme": "light",
+      "language": "en"
+    },
+    "pages_b7beab7a": {
+      "full_name": "Pages Person",
+      "mobile_number": "9876543210",
+      "email": "pages_b7beab7a@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "2f922f615700e694",
+      "password_hash": "fc654df13872c0c2379e48d65c71aaed15bdd63cf190f1a5c9d65cf2b752ffd9",
+      "created_at": "2026-03-28 15:26:49",
+      "theme": "light",
+      "language": "en"
+    },
+    "chart_ccdee2ee": {
+      "full_name": "Chart Person",
+      "mobile_number": "9876543210",
+      "email": "chart_ccdee2ee@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "55e527b6be1088c0",
+      "password_hash": "028e0f4cef49376f3c3b068dd85f7d90884486b9adb53f244ab2d204cb533daa",
+      "created_at": "2026-03-28 15:39:12",
+      "theme": "light",
+      "language": "en"
+    },
+    "smart_8cd460ea": {
+      "full_name": "Smart Person",
+      "mobile_number": "9876543210",
+      "email": "smart_8cd460ea@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "c4e6d5bd9b71b6cf",
+      "password_hash": "8c1c4e7b22f7f8603cb06910111ed91c55a500ba6f819a68f200c68ee1c5d079",
+      "created_at": "2026-03-28 16:44:05",
+      "theme": "light",
+      "language": "en"
+    },
+    "prefs_72e9e9bd": {
+      "full_name": "Prefs Person",
+      "mobile_number": "9876543210",
+      "email": "prefs_72e9e9bd@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "21a9b5bc6d8af606",
+      "password_hash": "d9d4908283797484d4f66901915984aa99c113208b305e2ff9ac7e591e6b46e7",
+      "created_at": "2026-03-28 16:55:53",
+      "theme": "dark",
+      "language": "hi"
+    },
+    "prefs_2a28a782": {
+      "full_name": "Prefs Person",
+      "mobile_number": "9876543210",
+      "email": "prefs_2a28a782@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "fe0f4f7478d4021f",
+      "password_hash": "bb44a0f6dd3dcc993eb7de851612cca8cf9c12b9fddfd6dce080f5d9ff6fecac",
+      "created_at": "2026-03-28 16:56:12",
+      "theme": "dark",
+      "language": "hi"
+    },
+    "prefs_5a4ba3d4": {
+      "full_name": "Prefs Person",
+      "mobile_number": "9876543210",
+      "email": "prefs_5a4ba3d4@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "799e8bfd91729b84",
+      "password_hash": "9addf1a157eeec1d3aaa97100de31f325cfa25285b3703be980d4d7668c2a2a7",
+      "created_at": "2026-03-28 16:56:33",
+      "theme": "dark",
+      "language": "hi"
+    },
+    "prefs_841cf258": {
+      "full_name": "Prefs Person",
+      "mobile_number": "9876543210",
+      "email": "prefs_841cf258@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "78ca0302efe5be73",
+      "password_hash": "4be98b19fb424e1ae2850007fc143fff9b9d015fc9ea969f307cb3384e837aac",
+      "created_at": "2026-03-28 16:57:23",
+      "theme": "dark",
+      "language": "hi"
+    },
+    "prefs_e5490db1": {
+      "full_name": "Prefs Person",
+      "mobile_number": "9876543210",
+      "email": "prefs_e5490db1@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "9cfb5a3b503909fa",
+      "password_hash": "7d3ecae1cf36b26242d1a57b9164b4f8fcd281c1a0ca885549c8098967024c85",
+      "created_at": "2026-03-28 16:57:59",
+      "theme": "dark",
+      "language": "hi"
+    },
+    "profile_89a32e0e": {
+      "full_name": "Profile Person",
+      "mobile_number": "9876543210",
+      "email": "profile_89a32e0e@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "5e5e9c620fd644b8",
+      "password_hash": "784a08a6126cc38d204c809388e7b5902fee49263437281fbed21c160af6cba4",
+      "created_at": "2026-03-28 17:09:11",
+      "theme": "light",
+      "language": "en"
+    },
+    "goals_9fb3a192": {
+      "full_name": "Goals Person",
+      "mobile_number": "9876543210",
+      "email": "goals_9fb3a192@example.com",
+      "date_of_birth": "2000-01-02",
+      "salt": "71d07746795befab",
+      "password_hash": "50987274a323ffab3bc458f373158d433a00ac370adf380ab95c54eaa7c80e39",
+      "created_at": "2026-03-28 17:16:09",
+      "theme": "light",
+      "language": "en"
+    }
+  },
+  "goals": {
+    "smart_8cd460ea": {
+      "title": "Phone",
+      "target_amount": 50000.0,
+      "saved_amount": 15000.0
+    },
+    "sumajella": {
+      "title": "buy cybernautt camera",
+      "target_amount": 7299.0,
+      "saved_amount": 1500.0
+    },
+    "goals_9fb3a192": [
+      {
+        "title": "Phone",
+        "target_amount": 50000.0,
+        "saved_amount": 10000.0
+      },
+      {
+        "title": "Trip",
+        "target_amount": 30000.0,
+        "saved_amount": 5000.0
+      }
+    ]
+  }
+}
